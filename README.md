@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24-11-2026
+## Reference Number:26010935
+## Name:Nadish RK
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,102 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+FarmDirect is a digital platform that connects farmers directly with consumers, retailers, and bulk buyers to reduce unnecessary intermediaries and improve price transparency.
+
+Key Features:
+
+Direct selling between farmers and buyers.
+
+Transparent product pricing and price comparison.
+
+AI-based demand forecasting to help farmers plan sales.
+
+Logistics and delivery coordination.
+
+Secure digital payments and order tracking.
+
+Regional-language support for easy access.
+
+The platform aims to improve market access for farmers while helping consumers find agricultural products at competitive prices.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Technologies Used:
+
+Frontend: HTML, CSS, JavaScript, React.js.
+
+Backend: Python with Flask or FastAPI.
+
+Database: MySQL or PostgreSQL.
+
+AI/ML: Python and Scikit-learn.
+
+Logistics: Mapping and route-optimization tools.
+
+Security: Authentication and secure payment integration.
+
+Implementation Steps:
+
+Register farmers and buyers.
+
+Allow farmers to list products and prices.
+
+Enable buyers to search, compare, and order products.
+
+Use AI to analyze demand and market trends.
+
+Coordinate delivery and payments.
+
+Test and deploy the platform.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Technical Feasibility: Can be developed using existing web technologies and open-source tools.
+
+Economic Feasibility: A basic prototype can be built at a low cost using free development tools.
+
+Operational Feasibility: Start with a small group of farmers and buyers before expanding.
+
+Challenges: Digital literacy, transportation, internet connectivity, and data availability.
+
+Solutions: Provide a simple regional-language interface, partner with FPOs, and use reliable logistics services.
+
+Sustainability: Potential revenue sources include transparent service fees and logistics coordination charges.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Farmers: Better market access and improved price transparency.
+
+Consumers: Easier product discovery and price comparison.
+
+Retailers: Improved access to agricultural suppliers.
+
+Economy: Potential reduction in unnecessary distribution costs.
+
+Environment: Better delivery planning and reduced food spoilage.
+
+Expected Outcome: A transparent digital marketplace that connects farmers and buyers, improves agricultural trading, and supports efficient distribution.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+e-NAM – National Agriculture Market
+https://www.enam.gov.in/web/
+Reference for digital agricultural trading and price discovery.
+
+AGMARKNET
+https://agmarknet.gov.in/
+Agricultural market information and price data.
+
+SFAC – Small Farmers' Agribusiness Consortium
+https://sfacindia.com/
+Information about Farmer Producer Organizations (FPOs).
+
+ONDC – Open Network for Digital Commerce
+https://ondc.org/
+Reference for digital commerce and connecting market participants.
+
+Google OR-Tools
+https://developers.google.com/optimization
+Tools for delivery-route optimization.
+
+Scikit-learn
+https://scikit-learn.org/stable/
+Machine-learning tools for demand analysis and forecasting.
+
+These references support the research behind FarmDirect's proposed marketplace, forecasting, and logistics features.
